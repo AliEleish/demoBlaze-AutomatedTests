@@ -1,0 +1,14 @@
+{
+  "LoginTestUser": {
+    "Username": "test",
+    "Password": "test"
+  },
+  "OrderTestData": {
+    "Name": "Ali",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Credit Card": "4012888888881881",
+    "Month": "10",
+    "Year": "2026"
+  }
+}
